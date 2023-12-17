@@ -1,0 +1,31 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    color: black;
+    margin: 6px;
+}
+header{
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+pr-titulli{
+    display: flex;
+    justify-content: flex-start;
+}
+
+header h1 {
+    font-size: 5em;
+    
+    padding:25%;
+    display: flex;
+    justify-content: center;
+    background-image: url('header3.jpg');
+    background-size: cover;
+    margin: 15px;
+   
+    
+
+}

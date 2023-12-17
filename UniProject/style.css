@@ -3,7 +3,9 @@
   padding: 0;
   color: aqua;
 }
-
+.yoo{
+  color: aquamarine;
+}
 #ALB1494:hover+.Durrës {
   display: inline;
 }
